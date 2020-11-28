@@ -20,6 +20,10 @@ html {
     -webkit-animation-duration: 2s;
     /* Safari 4.0 - 8.0 */
 }
+#canvas{
+    width:100%;
+    height:auto;
+}
 
 h1 {
     font-size: 5vw;
